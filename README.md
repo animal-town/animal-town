@@ -6,5 +6,7 @@ When you request to claim an animal in my atabook, you will be displayed here (m
 
 It will look like this:
 
-![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ @githubusername is ponytown's (insert animal here)
+![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ @githubusername is ponytown's (insert animal here)!
+
+[atabook](https://beautiful.atabook.org)
 
