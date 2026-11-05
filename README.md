@@ -78,7 +78,7 @@ If an animal is taken, you can claim the **subspecies** of it. For example, if s
 
 ![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ [@MaverickHunter-X](https://github.com/MaverickHunter-X) is ponytown's Russian Blue Cat! 🐈🩶
 
-![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ [@N0VALIT3](https://github.com/N0VALIT3) is ponytown's Arctic Fox!
+![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ [@N0VALIT3](https://github.com/N0VALIT3) is ponytown's Arctic Fox! 🦊🤍
 
 ![](https://biscuit.crd.co/assets/images/gallery03/3ce2012c.gif?v=61632bd6)ㅤ [@z0mbiepup](https://github.com/z0mbiepup) is ponytown's Crow! 🐦‍⬛
 
